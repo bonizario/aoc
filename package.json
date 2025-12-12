@@ -1,0 +1,10 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "bonizario",
+  "devDependencies": {
+    "@types/node": "24.10.2",
+    "typescript": "5.9.3"
+  }
+}

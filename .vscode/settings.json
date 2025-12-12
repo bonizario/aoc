@@ -1,0 +1,7 @@
+{
+  "chat.agent.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "cSpell.userWords": ["joltage"]
+}
